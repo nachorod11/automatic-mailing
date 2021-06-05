@@ -1,0 +1,8 @@
+Hola ${PERSON_NAME},
+
+Puedes encontrar adjunta la corrección del proyecto EDA.
+
+Si quieres ver alguna parte con más profundidad, o hacer algún comentario, no dudes en consultarnos.
+
+Nacho.
+The Bridge | Digital Talent Accelerator
