@@ -1,5 +1,5 @@
 # Automatic-mailing
-## Mandar correcciones The Bridge | Digital Talent Accelerator
+## Mandar correcciones DS.
 
 
 El proyecto tiene la intención de mandar a los distintos alumnos las correcciones de un proyecto. Las correcciones están en documentos de Word. 
@@ -10,3 +10,7 @@ El programa no está terminado, ya que ordena nombres y emails de manera alfabé
 Por este motivo, el siguiente punto es optener los nombres y los emails en base a un id que se genere bien en un SQL o de manera alternativa, en un csv o similar.
 
 En ningún momento se pretende que se utilice el script para mandar emails con publicidad, spam o cualquier tipo de información de manera automática.
+
+Autor: Nacho Rodríguez
+
+## The Bridge | Digital Talent Accelerator
