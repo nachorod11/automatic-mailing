@@ -1,4 +1,4 @@
-# automatic-mailing
+# Automatic-mailing
 ## Mandar correcciones The Bridge | Digital Talent Accelerator
 
 
